@@ -7,7 +7,8 @@ Bachelor of Science in Information Systems and Technology, Concentration in Busi
 Administration 
 Expected Graduation: May 2025<b>
 
-
+<b> (Lab for Advanced Applications Development)</b>
+  - [Lab 1](https://github.com/israelbustos7/Lab-1-Writing-Codes/blob/main/untitled8.py)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="IsraelBustos7 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
