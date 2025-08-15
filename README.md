@@ -1,11 +1,11 @@
-<h1>Hi, I'm Israel! <br/><a href="https://github.com/israelbustos7">Information Systems & Technology Student at Cal State San Bernardino</a> <a href="https://www.linkedin.com/in/israel-bustos7/">
+<h1>Hi, I'm Israel! <br/><a href="https://github.com/israelbustos7"> Information Systems & Technology Graduate from Cal State San Bernardino</a> <a href="https://www.linkedin.com/in/israel-bustos7/">
 
 <h2>👨‍💻 Education:</h2>
 
 - <b>Cal State San Bernardino 
 Bachelor of Science in Information Systems and Technology, Concentration in Business 
 Administration 
-Expected Graduation: May 2025<b>
+Graduation: May 2025<b>
 
 <b> (Lab for Advanced Applications Development)</b>
   - [Lab 1](https://github.com/israelbustos7/Lab-1-Writing-Codes/blob/main/untitled8.py)
