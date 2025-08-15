@@ -8,9 +8,10 @@ Administration
 Graduation: May 2025<b>
 
 <b> (Projects)</b>
-  - [Interest APR Calculator](https://github.com/israelbustos7/APY-Interest-Calculator)
   -  [AD DS Help Desk Simulation](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/readme.md)
   -  [NBA Stats Database](https://github.com/israelbustos7/NBA-Stats-Database/blob/master/README.md)
+  - [Interest APR Calculator](https://github.com/israelbustos7/APY-Interest-Calculator)
+
     
 <h2> 🤳 Connect with me:</h2>
 
